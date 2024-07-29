@@ -1,2 +1,2 @@
-# wipro_training
+# Wipro Training
 Pre-Joining Training Program
